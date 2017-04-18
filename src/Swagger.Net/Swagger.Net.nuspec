@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>FortuneLab Team</authors>
+    <owners>FortuneLab Team</owners>
+    <description>Swagger.Net Description.</description>
+    <projectUrl>http://www.yaomaiche.com</projectUrl>
+    <iconUrl>http://www.yaomaiche.com/pic/new_logo.png</iconUrl>
+    <tags>Swagger.Net</tags>
+  </metadata>
+</package>

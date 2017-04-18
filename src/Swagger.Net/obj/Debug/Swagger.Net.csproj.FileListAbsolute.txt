@@ -1,0 +1,14 @@
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\Swagger.Net.dll.config
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\Swagger.Net.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\Swagger.Net.pdb
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Web.Http.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Web.Http.xml
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\obj\Debug\Swagger.Net.csprojResolveAssemblyReference.cache
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\obj\Debug\Swagger.Net.dll
+C:\Users\SYSHTEMP\Desktop\src\Swagger.Net\obj\Debug\Swagger.Net.pdb
